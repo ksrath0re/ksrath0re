@@ -1,5 +1,8 @@
-### Hi there <img src="https://github.com/ksrath0re/ksrath0re/blob/master/wave.gif" width="30px">
-
+## Hi there <img src="https://github.com/ksrath0re/ksrath0re/blob/master/wave.gif" width="30px"> I'm Kuldeep.
+#### <img src="https://media3.giphy.com/media/l2JhORT5IFnj6ioko/giphy.gif" width="30px"> I’m currently looking for Software Engineering/Machine Learning/Natural Language Processing based full-time roles. Connect with me below.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ksrath0re)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/ksrath0re/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:kuldeepsinghlive@gmail.com)
 <!--
 **ksrath0re/ksrath0re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -17,26 +20,41 @@ Here are some ideas to get you started:
 
 
 ##### I am a recent Masters' in Computer Science graduate from Arizona State University. I am charged up about Full Stack Development, Machine Learning and Natural Language Processing with 4.5 years of professional software development experience. I also have research experience with a Master's Thesis in the inter-sectional domain of Natural Language Processing and Computer Vision.
-<table style="width: 638px;">
+<table style="width: 50%; margin-left: auto; margin-right: auto; height: 160px;">
 <tbody>
 <tr>
-<td style="width: 88.1667px;">&nbsp;<img id="ember2446" class="pv-entity__logo-img EntityPhoto-square-5 lazy-image ember-view" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFCi4JeKQHixw/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=ctDOqUSuXJ8wSaetymucFNpd7G4ch_y9JbdwbvdSj0A" alt="Juniper Networks" width="70" height="70" /></td>
-<td style="width: 291.833px;"><strong>Software Engineering Intern</strong><br />Juniper Networks<br />May 2019 &ndash; Aug 2019 4 mos</td>
-</tr>
-<tr>
-<td style="width: 88.1667px;"><strong>&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C560BAQGhfqdEXVWVYQ/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=H772mv3UWdPFdIXxC4qTdD--hoUJBIGY5TAuLp9D_2k" alt="Cognizant" width="70" height="70" /></strong></td>
-<td style="width: 291.833px;">
-<p><strong>Senior Software Engineer</strong><br />Cognizant<br />Mar 2016 &ndash; Dec 2017 1 yr 10 mos</p>
+<td style="width: 145px;"><br />
+<p><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHGiYb0DHKo8g/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=fg_ZTLw_1snlgPeliQBAQwikyII7jZ5o623Ge6yW-sc" /></p>
+</td>
+<td style="white-space: nowrap; width: 240px;">
+<p><strong>Arizona State University</strong></p>
+<p>Master of Science - MS<br />Computer Science<br />2018 &ndash; 2020</p>
+</td>
+<td style="width: 262px; text-align: left;">
+<ul>
+<li>4.5 Years SD Experience</li>
+<li>Machine Learning</li>
+<li>Natural Language Processing</li>
+<li>Java, Python, Distributed Systems</li>
+</ul>
 </td>
 </tr>
-<tr>
-<td style="width: 88.1667px;"><strong>&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGfKOtAsJ7gOQ/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=6K7DOcoRKZXpcna3kDlt3tr1XaNduZBLi2pAkismDzM" alt="IBM" width="70" height="70" /></strong></td>
-<td style="width: 291.833px;"><strong>Software Engineer</strong><br />IBM<br />Dec 2012 &ndash; Mar 2016 3 yrs 4 mos</td>
-</tr>
-  <tr><td style="width: 88.1667px;" data-mce-style="width: 88.1667px;"><strong>Tables and lists</strong></td><td style="width: 291.833px;" data-mce-style="width: 291.833px;">Seeking Software Engineer roles • 4.5 Years SD Experience • Machine Learning • Natural Language Processing • Ex-IBM | Cognizant | Juniper Networks</td><td style="width: 234px;" data-mce-style="width: 234px;"><table class="mce-item-table" style="height: 27px;" data-mce-style="height: 27px;" width="123"><tbody><tr><td style="width: 53.5px;" data-mce-style="width: 53.5px;"><img id="ember2136" class="EntityPhoto-square-1 flex-shrink-zero ember-view" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHGiYb0DHKo8g/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=fg_ZTLw_1snlgPeliQBAQwikyII7jZ5o623Ge6yW-sc" data-mce-src="https://media-exp1.licdn.com/dms/image/C4E0BAQHGiYb0DHKo8g/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=fg_ZTLw_1snlgPeliQBAQwikyII7jZ5o623Ge6yW-sc"></td></tr></tbody></table></td></tr>
 </tbody>
 </table>
-
+<table cellpadding="0">
+<tbody>
+<tr>
+<td width="10%">&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFCi4JeKQHixw/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=ctDOqUSuXJ8wSaetymucFNpd7G4ch_y9JbdwbvdSj0A" alt="Juniper Networks" width="70" height="70" /></td>
+<td width="23%"><strong>Software Engineering Intern</strong><br />Juniper Networks<br />May 2019 &ndash; Aug 2019</td>
+<td width="10%"><strong>&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C560BAQGhfqdEXVWVYQ/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=H772mv3UWdPFdIXxC4qTdD--hoUJBIGY5TAuLp9D_2k" alt="Cognizant" width="70" height="70" /></strong></td>
+<td width="23%">
+<p><strong>Senior Software Engineer</strong><br />Cognizant<br />Mar 2016 &ndash; Dec 2017</p>
+</td>
+<td width="10%"><strong>&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGfKOtAsJ7gOQ/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=6K7DOcoRKZXpcna3kDlt3tr1XaNduZBLi2pAkismDzM" alt="IBM" width="70" height="70" /></strong></td>
+<td width="23%"><strong>Software Engineer</strong><br />IBM<br />Dec 2012 &ndash; Mar 2016</td>
+</tr>
+</tbody>
+</table>
 ---
 
 <p>
