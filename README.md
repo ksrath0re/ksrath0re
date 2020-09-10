@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 ##### I am a recent Masters' in Computer Science graduate from Arizona State University. I am charged up about Full Stack Development, Machine Learning and Natural Language Processing with 4.5 years of professional software development experience. I also have research experience with a Master's Thesis in the inter-sectional domain of Natural Language Processing and Computer Vision.
+<center>
 <table style="width: 50%; margin-left: auto; margin-right: auto; height: 160px;">
 <tbody>
 <tr>
@@ -41,11 +42,13 @@ Here are some ideas to get you started:
 </tr>
 </tbody>
 </table>
-<table cellpadding="0">
+</center>
+<center>
+<table style="border: none;" cellpadding="0">
 <tbody>
 <tr>
 <td width="10%">&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFCi4JeKQHixw/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=ctDOqUSuXJ8wSaetymucFNpd7G4ch_y9JbdwbvdSj0A" alt="Juniper Networks" width="70" height="70" /></td>
-<td width="23%"><strong>Software Engineering Intern</strong><br />Juniper Networks<br />May 2019 &ndash; Aug 2019</td>
+<td width="27%"><strong>Software Engineering Intern</strong><br />Juniper Networks<br />May 2019 &ndash; Aug 2019</td>
 <td width="10%"><strong>&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C560BAQGhfqdEXVWVYQ/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=H772mv3UWdPFdIXxC4qTdD--hoUJBIGY5TAuLp9D_2k" alt="Cognizant" width="70" height="70" /></strong></td>
 <td width="23%">
 <p><strong>Senior Software Engineer</strong><br />Cognizant<br />Mar 2016 &ndash; Dec 2017</p>
@@ -55,14 +58,7 @@ Here are some ideas to get you started:
 </tr>
 </tbody>
 </table>
----
-
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>
-
-![](https://raw.githubusercontent.com/ksrath0re/ksrath0re/master/cover.JPG)
-![](https://github.com/ksrath0re/ksrath0re/blob/master/cover.JPG)
+</center>
 <center>
 <table>
   <tr>
