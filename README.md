@@ -39,19 +39,30 @@ Here are some ideas to get you started:
 <li>Java, Python, Distributed Systems</li>
 </ul>
 </td>
+<td style="width: 262px; text-align: center;"><table style="height: 137px;" width="143">
+<tbody>
+<tr>
+<td style="width: 133px;"><a href="https://drive.google.com/file/d/1Hc7fNwvnDGkliJQg0h-2RYgxRYBh_zKm/view?usp=sharing"><img class="n3VNCb" style="width: 42px; height: 42px; margin: 21.2px 0px;" src="https://static.thenounproject.com/png/19028-200.png" width="75px" /></a></td>
+</tr>
+<tr>
+<td style="width: 133px;">Download <br />Resume</td>
+</tr>
+</tbody>
+</table></td>
 </tr>
 </tbody>
 </table>
 </center>
+
 <center>
-<table style="border: none;" cellpadding="0">
+<table style="border-collapse: collapse;" cellpadding="0">
 <tbody>
 <tr>
 <td width="10%">&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFCi4JeKQHixw/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=ctDOqUSuXJ8wSaetymucFNpd7G4ch_y9JbdwbvdSj0A" alt="Juniper Networks" width="70" height="70" /></td>
 <td width="27%"><strong>Software Engineering Intern</strong><br />Juniper Networks<br />May 2019 &ndash; Aug 2019</td>
 <td width="10%"><strong>&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C560BAQGhfqdEXVWVYQ/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=H772mv3UWdPFdIXxC4qTdD--hoUJBIGY5TAuLp9D_2k" alt="Cognizant" width="70" height="70" /></strong></td>
 <td width="23%">
-<p><strong>Senior Software Engineer</strong><br />Cognizant<br />Mar 2016 &ndash; Dec 2017</p>
+<strong>Senior Software Engineer</strong><br />Cognizant<br />Mar 2016 &ndash; Dec 2017
 </td>
 <td width="10%"><strong>&nbsp;<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGfKOtAsJ7gOQ/company-logo_100_100/0?e=1607558400&amp;v=beta&amp;t=6K7DOcoRKZXpcna3kDlt3tr1XaNduZBLi2pAkismDzM" alt="IBM" width="70" height="70" /></strong></td>
 <td width="23%"><strong>Software Engineer</strong><br />IBM<br />Dec 2012 &ndash; Mar 2016</td>
@@ -68,21 +79,12 @@ Here are some ideas to get you started:
 </table>
 </center>
 
-#### Tecnologias Utilizadas!
+#### Technology Utilized
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-5BB8FF?style=flat-square&logo=mysql)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Entre em contato comigo 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ksrath0re)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/ksrath0re/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:kuldeepsinghlive@gmail.com)
-
-### - Obrigado por me visitar!
