@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </td>
 <td style="width: 262px; text-align: left;">
 <ul>
-<li>4.5 Years SD Experience</li>
+<li>4.5 Years Software Development Experience</li>
 <li>Machine Learning</li>
 <li>Natural Language Processing</li>
 <li>Java, Python, Distributed Systems</li>
